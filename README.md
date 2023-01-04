@@ -3,7 +3,7 @@
 
 ### Content
 
-Various alorithms implemented in NumPy
+Various algorithms implemented in NumPy
 
 [Linear regression](https://github.com/Brent-Morrison/uwml/blob/main/uwml0201_assignment.ipynb)  
 [Gradient descent](https://github.com/Brent-Morrison/uwml/blob/main/uwml0203_assignment.ipynb)  
